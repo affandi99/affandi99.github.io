@@ -17,15 +17,15 @@
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
 
   <!-- Vendor CSS Files -->
-  <link href="vendor/Groovin/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="vendor/Groovin/assets/vendor/icofont/icofont.min.css" rel="stylesheet">
-  <link href="vendor/Groovin/assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-  <link href="vendor/Groovin/assets/vendor/animate.css/animate.min.css" rel="stylesheet">
-  <link href="vendor/Groovin/assets/vendor/venobox/venobox.css" rel="stylesheet">
-  <link href="vendor/Groovin/assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+  <link href="assets/vendor/Groovin/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/Groovin/assets/vendor/icofont/icofont.min.css" rel="stylesheet">
+  <link href="assets/vendor/Groovin/assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/Groovin/assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+  <link href="assets/vendor/Groovin/assets/vendor/venobox/venobox.css" rel="stylesheet">
+  <link href="assets/vendor/Groovin/assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
 
   <!-- Template Main CSS File -->
-  <link href="vendor/Groovin/assets/css/style.css" rel="stylesheet">
+  <link href="assets/vendor/Groovin/assets/css/style.css" rel="stylesheet">
 
 </head>
 
@@ -247,18 +247,18 @@
   <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
 
   <!-- Vendor JS Files -->
-  <script src="vendor/Groovin/assets/vendor/jquery/jquery.min.js"></script>
-  <script src="vendor/Groovin/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="vendor/Groovin/assets/vendor/jquery.easing/jquery.easing.min.js"></script>
-  <script src="vendor/Groovin/assets/vendor/php-email-form/validate.js"></script>
-  <script src="vendor/Groovin/assets/vendor/waypoints/jquery.waypoints.min.js"></script>
-  <script src="vendor/Groovin/assets/vendor/counterup/counterup.min.js"></script>
-  <script src="vendor/Groovin/assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-  <script src="vendor/Groovin/assets/vendor/venobox/venobox.min.js"></script>
-  <script src="vendor/Groovin/assets/vendor/owl.carousel/owl.carousel.min.js"></script>
+  <script src="assets/vendor/Groovin/assets/vendor/jquery/jquery.min.js"></script>
+  <script src="assets/vendor/Groovin/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/Groovin/assets/vendor/jquery.easing/jquery.easing.min.js"></script>
+  <script src="assets/vendor/Groovin/assets/vendor/php-email-form/validate.js"></script>
+  <script src="assets/vendor/Groovin/assets/vendor/waypoints/jquery.waypoints.min.js"></script>
+  <script src="assets/vendor/Groovin/assets/vendor/counterup/counterup.min.js"></script>
+  <script src="assets/vendor/Groovin/assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/Groovin/assets/vendor/venobox/venobox.min.js"></script>
+  <script src="assets/vendor/Groovin/assets/vendor/owl.carousel/owl.carousel.min.js"></script>
 
   <!-- Template Main JS File -->
-  <script src="vendor/Groovin/assets/js/main.js"></script>
+  <script src="assets/vendor/Groovin/assets/js/main.js"></script>
 
 </body>
 

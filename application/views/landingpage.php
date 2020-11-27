@@ -6,7 +6,7 @@
         <meta name="description" content="" />
         <meta name="author" content="" />
         <title>IMPACT</title>
-        <link rel="icon" type="image/x-icon" href="vendor/agency/assets/img/favicon.ico" />
+        <link rel="icon" type="image/x-icon" href="assets/vendor/agency/assets/img/favicon.ico" />
         <!-- Font Awesome icons (free version)-->
         <script src="https://use.fontawesome.com/releases/v5.15.1/js/all.js" crossorigin="anonymous"></script>
         <!-- Google fonts-->
@@ -14,7 +14,7 @@
         <link href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
         <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700" rel="stylesheet" type="text/css" />
         <!-- Core theme CSS (includes Bootstrap)-->
-        <link href="vendor/agency/css/styles.css" rel="stylesheet" />
+        <link href="assets/vendor/agency/css/styles.css" rel="stylesheet" />
     </head>
     <body id="page-top">
         <!-- Masthead-->
@@ -220,9 +220,9 @@
         <!-- Third party plugin JS-->
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
         <!-- Contact form JS-->
-        <script src="vendor/agency/assets/mail/jqBootstrapValidation.js"></script>
-        <script src="vendor/agency/assets/mail/contact_me.js"></script>
+        <script src="assets/vendor/agency/assets/mail/jqBootstrapValidation.js"></script>
+        <script src="assets/vendor/agency/assets/mail/contact_me.js"></script>
         <!-- Core theme JS-->
-        <script src="vendor/agency/js/scripts.js"></script>
+        <script src="assets/vendor/agency/js/scripts.js"></script>
     </body>
 </html>
